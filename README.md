@@ -2,8 +2,8 @@
 
 このサイトは，A-Frameで作成した３次元の仮想空間をインターネットで公開するためのメージです．
 
-![A-Frame公式ページ](https://aframe.io/)
-![Webプログラミング道場](https://p.na-s.jp/htmlprac.html)
+- A-Frame公式ページ　https://aframe.io/
+- Webプログラミング道場　https://p.na-s.jp/htmlprac.html
 
 ## 開始するには
 
